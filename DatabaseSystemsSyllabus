@@ -1,0 +1,19 @@
+Data base systems syllabus
+Distributed Filesystems
+	*	Introduction
+	*	HDFS
+Data base management systems
+	*	Flat file Databases
+	*	Relational Data Bases
+		*	Heirarchical Databases
+		*	RDBMS
+	*	NoSQL
+		*	key-value
+			*	Redis
+		*	Coulmn Oriented
+			*	Cassandra
+			*	HBase
+		*	Document Oriented
+			*	MongoDB
+		*	Graph DB
+			*	Neo4j

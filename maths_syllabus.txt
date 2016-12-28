@@ -1,0 +1,28 @@
+GATE
+
+Linear Algebra:
+Matrices, determinants, system of linear equations, eigenvalues and eigenvectors, LU decomposition.
+
+4 years plan :	Source [Erwin Kreyszig, Advanced Eng. Maths]
+
+1.	Ordinary Differentail Equations
+	a.	First-Order ODE's
+	b.	Second-Order  Linear ODE's
+	c.	Higher-Order Linear ODE's
+	d.	Laplace Transforms
+2.	Linear Algebra and Vector Calculus
+	a.	Linear Algebra
+		i.	Matrices, Vectors, Determinants, Linear Systems
+		ii.	Matrix Eigenvalue Problems
+	b.	Vector Calculus
+		i.	Vector Differential Calculus
+		ii.	Vector Integral Calculus. Integral Theorems
+3.	Fourier Analysis. Partial Differential Equations (PDEs)
+	a.	Fourier Analysis
+	b.	Partial Differential Equations (PDEs)
+4.	Complex Analysis 
+	a.	Power Series, Taylor Series
+5.	Numeric Analysis
+	a.	Numerics in General
+	b.	Numeric Linear Algebra
+	c.	Numerics for ODEs and PDEs

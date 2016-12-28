@@ -1,0 +1,73 @@
+1.	Probability and Couting
+	a.	Sample Space
+	b.	Defination of Probability
+	c.	Counting
+	d.	Introduction to R, and practice some examples
+2.	Conditional Probability
+	a.	Defination and intuition
+	b.	Law of total Probability
+	c.	Baye's rule
+	d.	Independent events
+	e.	Paradoxes
+	f.	solving examples with R
+3.	Random variables and their distributions
+	a.	Random variables
+	b.	Distributions and probability mass functions
+	c.	Bernouli and binomial distributions
+	d.	Hypergeometric distributions
+	e.	Discrete uniform distributions
+	f.	Functions of random variables
+	g.	solving examples with R
+4.	Expectation
+	a.	Definition of expectation
+	b.	Linearity of expecation
+	c.	Law of the unconscious statistician(LOTUS)
+	d.	Variance
+	e.	Poisson
+	f.	Connections between Poisson and Binomial
+	g.	solving examples with R
+5.	Continuous Random Variables
+	a.	Probability density functions
+	b.	Uniform
+	c.	Normal
+	d.	Exponential
+	e.	Poissonprocesses
+	f.	Symmetry of i.i.d. continuous r.v.s
+	g.	solving examples with R
+6.	Joint distributions
+	a.	Joint, marginal, and conditional
+	b.	2D LOTUS
+	c.	Covariance and correlation
+	d.	Multinomial
+	e.	Multivariate Normal
+	f.	solving examples with R
+7.	Transformations
+	a.	Change of variables
+	b.	Convolutions
+	c.	Beta
+	d.	Gamma
+	e.	Beta-Gamma connections
+	f.	Order statistics
+	g.	solving examples with R
+8.	Inequalities and limit theorems
+	a.	Inequalities
+	b.	Law of large numbers
+	c.	Central limit theorem
+	d.	Chi-Square and Student-t
+	f.	solving examples with R
+9.	Markov chains
+	a.	Markov property and transition matrix
+	b.	Classification of states
+	c.	Stationary distribution
+	d.	Reversibility
+	e.	solving examples with R
+10.	Markov chain Monte Carlo
+	a.	Metropolis-Hastings
+	b.	Gibbs sampling
+	c.	Google PageRank as a Markov chain
+	d.	solving examples with R
+11.	Poisson processes
+	a.	Poisson processes in one dimension
+	b.	Conditioning, superposition, thinning
+	c.	Poisson processes in multi dimension
+	d.	solving examples with R

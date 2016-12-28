@@ -1,0 +1,92 @@
+Data Mining
+	*	Introduction
+	*	Get Started with Recommendation Systems
+	*	Implicit ratings and item-based filtering
+	*	Classification
+	*	Further Explorations in Classification
+	*	Naïve Bayes
+	*	Naïve Bayes and unstructured text
+	*	Clustering
+
+
+Topics: 
+	*	Introduction to ML
+	*	Supervised Learning
+		*	Applications
+		*	Linear Regression
+			*	Gradient Descent
+			*	Batch Gradient Descent
+			*	Stochastic Gradient Descent
+			*	The Probabilistic Interpretation of Linear Regression
+		*	Logistic Regression
+			*	Perceptron
+			*	Newton's method
+		*	Exponential family
+			*	Bernoulli Example
+			*	Gaussian Example
+		*	Generalized linear models
+			*	Multinomial Example
+		*	Softmax Regression
+		*	Discriminative Algorithms
+		*	Generative leanrning algorithms
+			*	GDA (Gaussian Discriminant Analysis)
+		*	Discriminative Vs Generative algorithms
+			*	Logistic Regression Vs GDA
+		*	Naive Bayes
+		*	Laplace Smoothing
+		*	Non-linear Classifiers
+			*	Neural Networks
+			*	SVM
+				*	Notation for SVM
+				*	Functional and Geometric Margins
+				*	KKT Conditions
+				*	Kernals
+				*	Soft margin
+				*	SMO algorithm
+	*	Leaning Theory
+		*	The Concept of 'Shatter' and VC Dimension
+			*	SVM example
+		*	Model Selection
+			*	Cross validation
+			*	Feature Selection
+		*	Bayesian Statistics and regularization
+		*	Online Leaning 
+		*	Getting Started on a Learning Problem
+	*	Unsupervised learning
+		*	K-means Cluster
+		*	Mixtures of Gaussians and the EM Algorithm
+			*	Jensen's Inequality
+			*	The EM Algorithm
+				*	Mixture of Gaussian
+				*	Mixture of Naive Bayes
+		*	Factor Analysis
+		*	Pricipal Component Analysis (PCA)
+			*	Dimensionality Reduction
+			*	Latent Semantic Indexing (LSI)
+			*	Singular Value Decomposition (SVD)
+		*	Independent Component Analysis (ICA)
+	*	Reinforcement Learning
+		*	Markup Dession Processes (MDP's)
+		*	Value Functions
+		*	Value Iterations
+		*	Policy Iterations
+		*	Continues State MDP's
+			*	Discretization
+			*	Models/ Simulatiors
+			*	Fitted Value Iterations
+			*	Q function
+			*	Aproximate Policy Iterations
+		*	Finite horizon MDP's
+		*	Linear Dynamical Systems
+			*	Models
+			*	Linear Quadratic regularization (LQR)
+				*	Riccati Equation
+			*	Differential Dynamic Programming (DDP)
+			*	Kalman Filter & Linear Quadratic Gaussian (LQG)
+			*	Linear Quadratic Gaussian (LQG)
+		*	Partially Observable MDPs (POMDPs)
+		*	Policy Search Algorithm
+			*	Reinforce Algorithm
+			*	Pegasus Algorithm
+	*	Conclusion
+

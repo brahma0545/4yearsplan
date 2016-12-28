@@ -1,0 +1,55 @@
+C Programming
+
+Introduction: 					
+	*	Computer systems, Hardware and Software Concepts,
+PROBLEM SOLVING
+	*	Algorithm / Pseudo code, flowchart, program development steps, computer languages: machine, symbolic and highlevel languages.
+CREATING AND RUNNIG PROGRAM
+	*	Writing, Editing(vi/emacs editor), Compiling(gcc), Linking and Executing in under Linux.
+BASICS OF C: 					
+	*	Structure of a C program, identifiers, basic data types and sizes. Constants, Variables, Arthmetic , relational and logical operators, increment
+		and decrement operators, conditional operator, assignment operator, expressions, type conversions, Conditional Expressions, precedence and order of evaluation.
+		ASSIGNMENTS
+SELECTION – MAKING DECISION: TWO WAY SELECTION: 
+	*	if-else, null else, nested if.
+	*	Multiway selection: switch, else-if.
+		ASSIGNMENTS
+ITERATIVE: 
+	*	loops- while, do-while and for statements , break, continue, initialization and updating, event and counter controlled loops, 
+	*	Looping applications: Summation, powers, smallest and largest.
+		ASSIGNMENTS
+ARRAYS: 
+	*	Arrays- concepts, declaration, definition, accessing elements, storing elements, Strings and String Manipulations, 1-D arrays, 2-D arrays and character arrays, string manipulations, Multidimensional arrays.
+		ASSIGNMENTS
+	*	Array applications: Matrix operations, checking the symmetricity of a Matrix.
+		ASSIGNMENTS
+STRINGS: 
+	*	concepts, c strings.
+		ASSIGNMENTS
+FUNCTIONS- MODULAR PROGRAMMING: 
+	*	Functions, basics, parameter passing.
+		ASSIGNMENTS
+	*	Storage classes extern, auto, register, static, scope rules, block structure.
+	*	User defined functions, standard library functions.
+	*	Recursive functions, Recursive solutions for fibonacci series, towers of Hanoi.
+		ASSIGNMENTS
+	*	Header files, C Preprocessor, Passing 1-D arrays, 2-D arrays to functions.
+		ASSIGNMENTS
+POINTERS: 
+	*	Initialization of pointer variables, pointers and function arguments, passing by address- dangling memory, character pointers and functions.
+		ASSIGNMENTS
+	*	Address arithmetic,
+	*	Pointers to pointers, pointers and multi-dimensional arrays, dynamic memory management functions.
+		ASSIGNMENTS
+	*	Command line arguments
+ENUMERATED, STRUCTURE AND UNION TYPES: 
+	*	Derived types- structures- declaration, definition and initialization of structures, accessing structures, nested structures, arrays of structures, 	structures and functions, pointers to structures, self referential structures
+		ASSIGNMENTS
+	*	Unions, typedef, bit-fields, program applications
+		ASSIGNMENTS
+BIT-WISE OPERATORS: 
+	*	logical, shift, rotation, masks.
+		ASSIGNMENTS
+FILE HANDLING: 
+	*	Input and output- concept of a file, text files and binary files, Formatted I/O, File I/O operations.
+		ASSIGNMENTS

@@ -1,0 +1,18 @@
+*	Formulating linear programs
+*	The simplex algorithm
+	*	Basic feasible solutions and standard form
+	*	The simplex algorithm
+	*	Certificates of optimality, infeasibility and unboundedness
+*	Duality and sensitivity analysis: Chapter 6 (8 lectures)
+	*	The dual problem
+	*	Duality theorems
+	*	Complementary slackness
+	*	Changing the right hand side
+*	*	Changing the objective
+*	Discrete optimization: Chapter 9 (7 lectures)
+	*	Integer programming
+	*	Modeling with integer variables
+	*	Branch-and-bound method
+	*	Implicit enumeration
+
+

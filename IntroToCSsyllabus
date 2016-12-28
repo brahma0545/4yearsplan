@@ -1,0 +1,55 @@
+Intoduction to Computer Science [harvard cs50]
+Week 1:	
+	*	Binary, ASCII. 
+	*	Algorithms, Pseudocode. 
+	*	Source code. Compiler. Object code.
+	*	Scratch.
+	*	Statements, Boolean expressions, Conditions, Loops.
+	*	Variables, Functions, Arrays, Threads, Events.
+Week 2
+	*	Linux, C.
+	*	Compiling
+	*	Libraries
+	*	Standard output.
+Week 3
+	*	Casting
+	*	Imprecision
+	*	Switches
+	*	Scope
+	*	Strings
+	*	Arrays
+	*	Cryptography.
+Week 4
+	*	Command-line arguments.
+	*	Searching.
+	*	Sorting (Bubble sort. Selection sort. Insertion sort.)
+	*	O. Ω .Θ.
+	*	Recursion.
+	*	Merge Sort.
+Week 5
+	*	Stack. 
+	*	Debugging. 
+	*	File I/O. 
+	*	Hexadecimal.
+	*	Pointers. 
+	*	Dynamic memory allocation.
+Week 6
+	*	Heap.
+	*	Buffer overflow. 
+	*	Linked lists. 
+	*	Hash tables.
+	*	Tries. 
+	*	Trees. 
+	*	Stacks, Queues.
+Week 7
+	*	TCP/IP. HTTP.
+Week 8
+	*	HTML. CSS. PHP.
+Week 9
+	*	MVC. SQL.
+Week 10
+	*	JavaScript. Ajax.
+Week 11
+	*	Security. Artificial intelligence.
+Week 12
+	*	Artificial intelligence, continued.
